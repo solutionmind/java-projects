@@ -4,6 +4,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author rajesh
+ * 
+ * map function convert the stream of object into another stream of object.finally map returns another stream.
+ *
+ */
 public class MapTest {
 
 	public static void main(String[] args) {
