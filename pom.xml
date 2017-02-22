@@ -13,5 +13,7 @@
   	<module>java-generics</module>
   	<module>java-collections</module>
   	<module>java-clone</module>
+  	<module>java-stream-project</module>
+  	<module>java-lambda-idioms</module>
   </modules>
 </project>
